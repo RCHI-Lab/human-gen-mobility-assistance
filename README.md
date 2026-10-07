@@ -1,4 +1,3 @@
-# dynamichumanmotion.github.io
 
 Project page for **Learning Robot Policies for Whole-Body Mobility Assistance via Dynamic Human Motion Generation**, built with the
 [Nerfies / academic-project-page](https://github.com/nerfies/nerfies.github.io)

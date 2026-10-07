@@ -35,10 +35,3 @@ To add a video tile, copy one `<div class="column">` block and change the
 python3 -m http.server 8000
 # open http://localhost:8000
 ```
-
-## Publishing on GitHub Pages
-
-Push to the `main` branch of a repo named
-`dynamichumanmotion.github.io`, then in **Settings → Pages** set the
-source to the `main` branch, root (`/`). The site goes live at
-`https://dynamichumanmotion.github.io/`.

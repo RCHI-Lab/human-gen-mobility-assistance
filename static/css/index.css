@@ -116,6 +116,29 @@ body {
     display: inline-block;
 }
 
+.project-authors {
+    line-height: 1.8;
+}
+
+.project-authors .author-block {
+    margin: 0 0.2rem;
+}
+
+.project-affiliations {
+    margin-top: 0.8rem;
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+.project-affiliations p + p {
+    margin-top: 0.4rem;
+}
+
+.equal-contribution {
+    margin-top: 0.8rem;
+    font-size: 0.9rem;
+}
+
 .publication-banner img {
 }
 
